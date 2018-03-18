@@ -113,7 +113,6 @@ END_PLAYERS
 Cleveland Browns,CLE
 QB,Austin Davis,27,2012,60,65,92,85,79,49,2,2
 QB,Connor Shaw,24,2014,63,51,83,80,76,71,0.5,3
-QB,Robert Griffin III,26,2012,80,68,77,92,70,74,7.5,2
 QB,Deshone Kizer,22,2016,70,66,77,82,73,77,3.5,3
 RB,Glenn Winston,27,2014,62,40,85,85,81,57,0.5,3
 RB,Duke Johnson,22,2015,83,60,76,73,90,87,0.8,4
