@@ -114,7 +114,7 @@ Cleveland Browns,CLE
 QB,Austin Davis,27,2012,60,65,92,85,79,49,2,2
 QB,Connor Shaw,24,2014,63,51,83,80,76,71,0.5,3
 QB,Robert Griffin III,26,2012,80,68,77,92,70,74,7.5,2
-QB,Josh McCown,36,2002,72,75,75,83,71,27,4.7,3
+QB, Trenton Lee,21,2016,25,1,1,25,25,25,0,2
 RB,Glenn Winston,27,2014,62,40,85,85,81,57,0.5,3
 RB,Duke Johnson,22,2015,83,60,76,53,90,87,0.8,4
 RB,Isaiah Crowell,23,2014,62,63,93,86,86,63,0.5,3
@@ -876,7 +876,6 @@ San Diego Chargers,SD
 QB,Philip Rivers,34,2004,92,89,98,87,90,20,20.8,4
 QB,Kellen Clemens,33,2006,80,70,85,83,73,20,1.1,1
 QB,Zach Mettenberger,24,2014,72,62,82,95,76,39,0.6,4
-QB,Trenton Lee,21,2016,100,1,1,1,1,1,0.5,3
 RB,Danny Woodhead,31,2008,57,84,79,42,88,83,2.8,2
 RB,Melvin Gordon,23,2015,93,63,92,69,91,89,2.7,4
 RB,Donald Brown,29,2009,83,78,80,81,86,52,1,1
