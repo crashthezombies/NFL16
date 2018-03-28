@@ -876,6 +876,7 @@ San Diego Chargers,SD
 QB,Philip Rivers,34,2004,92,89,98,87,90,20,20.8,4
 QB,Kellen Clemens,33,2006,80,70,85,83,73,20,1.1,1
 QB,Zach Mettenberger,24,2014,72,62,82,95,76,39,0.6,4
+QB,Trenton Lee,21,2016,100,1,1,1,1,1,0.5,3
 RB,Danny Woodhead,31,2008,57,84,79,42,88,83,2.8,2
 RB,Melvin Gordon,23,2015,93,63,92,69,91,89,2.7,4
 RB,Donald Brown,29,2009,83,78,80,81,86,52,1,1
